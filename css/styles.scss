@@ -70,3 +70,23 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+#reserve{
+    padding: 10px;
+    height: 50px;
+    color:floralwhite;
+}
+.modal-header{
+    background-color: $background-dark;
+    color: floralwhite;
+    .modal-title{
+        color: floralwhite;
+    }
+    .close{
+        color: floralwhite;
+    }
+}
+.modal-body{
+    background-color: $background-pale;
+    
+}
+

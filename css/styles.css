@@ -52,3 +52,19 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#reserve {
+  padding: 10px;
+  height: 50px;
+  color: floralwhite; }
+
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+  .modal-header .modal-title {
+    color: floralwhite; }
+  .modal-header .close {
+    color: floralwhite; }
+
+.modal-body {
+  background-color: #D1C4E9; }
